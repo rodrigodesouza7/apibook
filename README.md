@@ -156,6 +156,8 @@ Este projeto demonstra:
 ✔ Integração com banco de dados relacional
 ✔ Testes automatizados e validação completa
 ✔ Resolução de problemas reais (migrations)
+
+
 👤 Sobre o Autor
 
 Rodrigo de Souza Silva
