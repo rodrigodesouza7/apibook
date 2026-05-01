@@ -1,7 +1,9 @@
 # 📚 API Book — Gestão de Livros com FastAPI
 
 ![CI](https://github.com/rodrigodesouza7/apibook/actions/workflows/ci.yml/badge.svg)
+
 ![Swagger UI](docs/swagger-ui.png)
+
 API backend para gerenciamento de livros com autenticação de usuários, permitindo operações completas de CRUD com isolamento de dados por usuário.
 
 ## 🎯 Objetivo
